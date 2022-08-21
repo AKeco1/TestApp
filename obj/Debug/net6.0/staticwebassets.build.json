@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pNo+wk2LYQ4V32k9WIe52q9vWTz3loNJmpt9TvEq8Ag=",
+  "Hash": "aN1NMPvrKqOZzJmrOli9YY/lDqUnnFPvQLgT2kGc6LA=",
   "Source": "TestProjectWthAngular",
   "BasePath": "_content/TestProjectWthAngular",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TestProjectWthAngular/wwwroot",
       "Source": "TestProjectWthAngular",
-      "ContentRoot": "/Users/arminkeco/Desktop/Projects/ProjectFromWork/TestProjectWthAngular/wwwroot/",
+      "ContentRoot": "/Users/arminkeco/Desktop/tst/TestApp/wwwroot/",
       "BasePath": "_content/TestProjectWthAngular",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/arminkeco/Desktop/Projects/ProjectFromWork/TestProjectWthAngular/wwwroot/favicon.ico",
+      "Identity": "/Users/arminkeco/Desktop/tst/TestApp/wwwroot/favicon.ico",
       "SourceId": "TestProjectWthAngular",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/arminkeco/Desktop/Projects/ProjectFromWork/TestProjectWthAngular/wwwroot/",
+      "ContentRoot": "/Users/arminkeco/Desktop/tst/TestApp/wwwroot/",
       "BasePath": "_content/TestProjectWthAngular",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

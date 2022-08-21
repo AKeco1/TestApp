@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MCIJtivLyA8dmyRzUgtJT8+8+P9hFVLqOpm3xjZ5ju1qh0MoAtTrLy+injP5O8HNLfMngHw9PnEmwbnW4CUWQw==",
+  "dgSpecHash": "JSXql6RddDrSbwAvP0O5uqpW7SGbChHlEnBRDkZRXY4hMP3zRN8uZ+oxLqayjY+fMqJQ4nUiVYDA64Y3xXoTFg==",
   "success": true,
-  "projectFilePath": "/Users/arminkeco/Desktop/Projects/ProjectFromWork/TestProjectWthAngular/TestProjectWthAngular.csproj",
+  "projectFilePath": "/Users/arminkeco/Desktop/tst/TestApp/TestProjectWthAngular.csproj",
   "expectedPackageFiles": [
     "/Users/arminkeco/.nuget/packages/microsoft.aspnetcore.spaproxy/6.0.8/microsoft.aspnetcore.spaproxy.6.0.8.nupkg.sha512"
   ],

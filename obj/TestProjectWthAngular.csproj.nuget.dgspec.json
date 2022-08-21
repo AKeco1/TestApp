@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/arminkeco/Desktop/Projects/ProjectFromWork/TestProjectWthAngular/TestProjectWthAngular.csproj": {}
+    "/Users/arminkeco/Desktop/tst/TestApp/TestProjectWthAngular.csproj": {}
   },
   "projects": {
-    "/Users/arminkeco/Desktop/Projects/ProjectFromWork/TestProjectWthAngular/TestProjectWthAngular.csproj": {
+    "/Users/arminkeco/Desktop/tst/TestApp/TestProjectWthAngular.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/arminkeco/Desktop/Projects/ProjectFromWork/TestProjectWthAngular/TestProjectWthAngular.csproj",
+        "projectUniqueName": "/Users/arminkeco/Desktop/tst/TestApp/TestProjectWthAngular.csproj",
         "projectName": "TestProjectWthAngular",
-        "projectPath": "/Users/arminkeco/Desktop/Projects/ProjectFromWork/TestProjectWthAngular/TestProjectWthAngular.csproj",
+        "projectPath": "/Users/arminkeco/Desktop/tst/TestApp/TestProjectWthAngular.csproj",
         "packagesPath": "/Users/arminkeco/.nuget/packages/",
-        "outputPath": "/Users/arminkeco/Desktop/Projects/ProjectFromWork/TestProjectWthAngular/obj/",
+        "outputPath": "/Users/arminkeco/Desktop/tst/TestApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/arminkeco/.nuget/NuGet/NuGet.Config"
