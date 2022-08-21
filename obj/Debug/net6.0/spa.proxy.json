@@ -1,8 +1,0 @@
-{
-"SpaProxyServer": {
-"ServerUrl": "https://localhost:44452",
-"LaunchCommand": "npm start",
-"WorkingDirectory": "/Users/arminkeco/Desktop/tst/TestApp/ClientApp/",
-"MaxTimeoutInSeconds": "120"
-}
-}
