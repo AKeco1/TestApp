@@ -15,6 +15,8 @@ namespace TestProjectWthAngular.Services
 
         public async Task<List<Person>> CollectAllData(string[]? lines)
         {
+            if (lines == null)
+                throw new ArgumentNullException("Can not parse file!");
             try
             {
                 var persons = new List<Person>();
