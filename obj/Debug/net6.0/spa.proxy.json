@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44452",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "/Users/arminkeco/Desktop/Projects/ProjectFromWork/TestProjectWthAngular/ClientApp/",
+"MaxTimeoutInSeconds": "120"
+}
+}

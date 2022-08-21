@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "pNo+wk2LYQ4V32k9WIe52q9vWTz3loNJmpt9TvEq8Ag=",
+  "Source": "TestProjectWthAngular",
+  "BasePath": "_content/TestProjectWthAngular",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TestProjectWthAngular/wwwroot",
+      "Source": "TestProjectWthAngular",
+      "ContentRoot": "/Users/arminkeco/Desktop/Projects/ProjectFromWork/TestProjectWthAngular/wwwroot/",
+      "BasePath": "_content/TestProjectWthAngular",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/arminkeco/Desktop/Projects/ProjectFromWork/TestProjectWthAngular/wwwroot/favicon.ico",
+      "SourceId": "TestProjectWthAngular",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/arminkeco/Desktop/Projects/ProjectFromWork/TestProjectWthAngular/wwwroot/",
+      "BasePath": "_content/TestProjectWthAngular",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/favicon.ico"
+    }
+  ]
+}
